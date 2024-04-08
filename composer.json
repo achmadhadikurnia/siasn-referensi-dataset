@@ -1,0 +1,54 @@
+{
+    "name": "kanekescom/siasn-referensi-dataset",
+    "description": "SIASN SIMPEG for Laravel",
+    "keywords": [
+        "kanekescom",
+        "php",
+        "dataset",
+        "siasn-referensi",
+        "siasn-referensi-dataset",
+        "siasn",
+        "bkn"
+    ],
+    "homepage": "https://github.com/kanekescom/siasn-referensi-dataset",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Achmad Hadi Kurnia",
+            "email": "imachmadhadikurnia@gmail.com",
+            "role": "Developer",
+            "homepage": "https://linktr.ee/achmadhadikurnia"
+        }
+    ],
+    "require": {},
+    "require-dev": {},
+    "autoload": {},
+    "autoload-dev": {},
+    "scripts": {},
+    "config": {},
+    "extra": {
+        "branch-alias": {
+            "dev-main": "1.x-dev"
+        }
+    },
+    "funding": [
+        {
+            "type": "github",
+            "url": "https://github.com/sponsors/achmadhadikurnia"
+        },
+        {
+            "type": "buymeacoffee",
+            "url": "https://s.id/hadibmac"
+        },
+        {
+            "type": "patreon",
+            "url": "https://s.id/hadipatreon"
+        },
+        {
+            "type": "saweria",
+            "url": "https://s.id/hadisaweria"
+        }
+    ],
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
