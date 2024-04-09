@@ -28,7 +28,7 @@
     "config": {},
     "extra": {
         "branch-alias": {
-            "dev-main": "1.x-dev"
+            "dev-main": "2024.x-dev"
         }
     },
     "funding": [
