@@ -1,0 +1,94 @@
+﻿id;kanreg_id;nama
+000;00;Kantor Pusat
+705;00;PT ASABRI
+999;00;Semua Kancab
+610;04;Palopo
+508;02;Pamekasan
+507;10;Ende
+306;03;Bekasi
+209;06;Kepulauan Nias
+100;05;Jakarta
+101;05;Bandar Lampung
+102;07;Bengkulu
+103;07;Palembang
+104;08;Palangkaraya
+105;05;Pontianak
+106;07;Pangkal Pinang
+107;03;Tangerang
+200;06;Medan
+201;13;Banda Aceh
+203;12;Bukittinggi
+204;04;Padang
+205;06;Pekanbaru
+206;07;Jambi
+207;12;Tanjung Pinang
+300;03;Bandung
+301;03;Bogor
+302;03;Tasikmalaya
+303;03;Cirebon
+304;03;Serang
+305;03;Depok
+400;01;Semarang
+401;01;Purwokerto
+402;01;Surakarta
+403;01;Yogyakarta
+404;01;Pekalongan
+500;02;Surabaya
+501;02;Malang
+502;02;Madiun
+503;02;Kediri
+600;04;Makassar
+601;11;Manado
+602;04;Palu
+603;04;Kendari
+604;04;Ambon
+605;09;Jayapura
+606;04;Gorontalo
+607;04;Ternate
+608;04;Mamuju
+609;09;Manokwari
+611;04;Bone
+700;10;Denpasar
+701;10;Kupang
+703;02;Mataram
+704;02;Jember
+109;05;Jakarta II
+505;08;Banjarmasin
+506;08;Samarinda
+110;07;Lubuk Linggau
+202;06;Pematang Siantar
+208;13;Lhokseumawe
+108;03;Tarakan
+2000;05;KC utama Jakarta
+1900;10;KC Denpasar
+2400;10;KC Kupang
+2500;10;KC Mataram
+2100;04;KC Ambon
+1800;09;KC Jayapura
+2600;14;KC Sorong
+2700;11;KC Ternate
+1300;3;KC Bandung
+2800;3;KC Cirebon
+2900;2;KC Madiun
+3000;2;KC malang
+1400;1;KC Semarang
+3100;3;KC serang
+1500;2;KC Surabaya
+3200;1;KC Yogyakarta
+1600;8;KC Balikpapan
+3300;8;KC Banjarmasin
+3400;8;KC Palangkaraya
+2300;5;KC Pontianak
+3500;4;KC Kendari
+1700;4;KC Makassar
+3600;11;KC Manado
+3700;4;KC Palu
+2200;13;KC Banda Aceh
+3800;12;KC Batam
+3900;7;KC Bengkulu
+4000;5;KC Lampung
+4100;13;KC Lhokseumawe
+1100;4;KC Medan
+4200;12;KC Padang
+1200;7;KC Palembang
+4300;12;KC Pekanbaru
